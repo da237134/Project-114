@@ -1,0 +1,12 @@
+h1{
+    font-size: 20 !important;
+}
+
+.btn-warning:hover
+{
+    background-color: red;
+}
+canvas{
+    border: 3px black solid;
+    border-radius: 10px;
+}
